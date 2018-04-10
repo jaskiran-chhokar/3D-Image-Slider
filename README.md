@@ -6,6 +6,10 @@
 An automatic 3D image slider which pauses on hover, created purely with CSS.   
 
 ```
+![](img/3d-image-slider.gif)
+
+
+
 
 Can be found at CodePen.io at https://codepen.io/jaskiranchhokar/pen/wmGXav
 
