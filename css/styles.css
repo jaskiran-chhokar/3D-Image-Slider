@@ -7,12 +7,12 @@ html, body {
 	max-width: 100%;
 	overflow-x: hidden;
 	overflow-y: auto;
-	background-color: #b1e4e2;
+	background-color: #6adecd;
 }
 
 #slideshow {
 	margin: 0 auto;
-	padding-top: 50px;
+	padding-top: 180px;
 	height: 600px;
 	width: 100%;
 	background-color: #6adecd;
@@ -28,27 +28,6 @@ html, body {
 	margin-top: 25%;
 	letter-spacing: 3px;
 	font-weight: 300;
-}
-
-.sub-heading {
-	padding-top: 50px;
-	font-size: 18px;
-} .sub-heading-two {
-	font-size: 15px;
-} .sub-heading-three {
-	font-size: 13px;
-} .sub-heading-four {
-	font-size: 11px;
-} .sub-heading-five {
-	font-size: 9px;
-} .sub-heading-six {
-	font-size: 7px;
-} .sub-heading-seven {
-	font-size: 5px;
-} .sub-heading-eight {
-	font-size: 3px;
-} .sub-heading-nine {
-	font-size: 1px;
 }
 
 .entire-content {
